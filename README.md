@@ -1,6 +1,6 @@
-# simple_crud
+# To-Do List
 
-A new Flutter project.
+A Flutter application that implements a simple To-Do List using SQFlite.
 
 ## Getting Started
 
